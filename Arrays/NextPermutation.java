@@ -36,6 +36,12 @@ class Solution {
     }
 }
 /*
+
+
+nums =
+[1,2,3]
+
+[1,3,2]
 Algorithm type : Lexicographical order permutation generation
 Steps : Find the pivot, find the swap candidate, swap, and reverse the suffix
 Complexity : O(n)
