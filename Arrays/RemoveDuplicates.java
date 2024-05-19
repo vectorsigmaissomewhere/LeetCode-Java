@@ -1,3 +1,5 @@
+// two pointer algorithm used
+// slow-fast pointer technique which is commomnly used for array modifications
 class Solution {
     public int removeDuplicates(int[] nums) {
         if (nums.length == 0) return 0;
