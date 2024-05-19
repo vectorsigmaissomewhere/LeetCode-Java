@@ -21,6 +21,7 @@ class Solution {
 // for example list be nums = {1, 1, 2, 2, 3, 4, 4, 5}
 // output as {1,2,3,4,5,4,4,5}
 
+// O(n) complexity
 
 /*
 Iteration Steps:
